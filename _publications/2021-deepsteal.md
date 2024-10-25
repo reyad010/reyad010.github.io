@@ -2,9 +2,9 @@
 title: "DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories"
 collection: publications
 category: conferences
-permalink: /publication/10/1/2022-deepsteal
+permalink: /publication/10/1/2021-deepsteal
 excerpt: 'Recent advancements in Deep Neural Networks (DNNs) have enabled widespread deployment in multiple security-sensitive domains. The need for resource-intensive training and the use of valuable domain-specific training data have made these models the top intellectual property (IP) for model owners. One of the major threats to DNN privacy is model extraction attacks where adversaries attempt to steal sensitive information in DNN models. In this work, we propose an advanced model extraction framework ...'
-date: 10/1/2022
+date: 10/1/2021
 venue: 'IEEE Symposium on Security and Privacy (SP)'
 slidesurl: '../files/metaleak_slides.pdf'
 paperurl: '../files/deepsteal.pdf'

@@ -2,9 +2,9 @@
 title: "DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/3/1/2014-deepsteal
+permalink: /talks/3/1/2024-deepsteal
 venue: "San Francisco, California"
-date: 3/1/2014
+date: 3/1/2024
 location: "San Francisco, California"
 ---
 

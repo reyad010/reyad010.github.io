@@ -2,7 +2,7 @@
 title: "DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories"
 collection: publications
 category: conferences
-istop: yes
+istop: istop
 series: SP'22
 authors: Chowdhuryy, Md Hafizul Islam and Rakin, Adnan Siraj and Yao, Fan and Fan, Deliang
 year: 2022

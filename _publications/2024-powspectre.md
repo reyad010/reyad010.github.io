@@ -2,7 +2,7 @@
 title: "PowSpectre: Powering Up Speculation Attacks with TSX-based Replay"
 collection: publications
 category: conferences
-istop: no
+istop: isnottop
 series: ASIACCS '24
 authors: Chowdhuryy, Md Hafizul Islam and Zhang, Zhenkai and Yao, Fan
 year: 2024

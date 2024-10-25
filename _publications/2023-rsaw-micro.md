@@ -2,7 +2,7 @@
 title: "Understanding and Characterizing Side Channels Exploiting Phase-Change Memories"
 collection: publications
 category: manuscripts
-istop: no
+istop: isnottop
 series: IEEE Micro'23
 authors: Chowdhuryy, Md Hafizul Islam and Ewetz, Rickard and Awad, Amro and Yao, Fan
 year: 2023

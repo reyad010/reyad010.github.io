@@ -2,8 +2,8 @@
 title: "IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees"
 collection: publications
 category: conferences
-istop: yes
-series: MICRO '21
+istop: istop
+series: MICRO '24
 authors: Chowdhuryy, Md Hafizul Islam and Yao, Fan
 year: 2024
 permalink: /publication/11/1/2024-ivleague

@@ -2,7 +2,7 @@
 title: "BranchSpec: Information Leakage Attacks Exploiting Speculative Branch Instruction Executions"
 collection: publications
 category: conferences
-istop: no
+istop: isnottop
 series: ICCD'20
 authors: Chowdhuryy, Md Hafizul Islam and Liu, Hang and Yao, Fan
 year: 2020

@@ -2,7 +2,7 @@
 title: "D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives"
 collection: publications
 category: conferences
-istop: yes
+istop: istop
 series: HPCA'23
 authors: Chowdhuryy, Md Hafizul Islam and Jung, Myoungsoo and Yao, Fan and Awad, Amro
 year: 2023

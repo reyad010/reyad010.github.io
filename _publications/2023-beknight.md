@@ -2,7 +2,7 @@
 title: "BeKnight: Guarding Against Information Leakage in Speculatively Updated Branch Predictors"
 collection: publications
 category: conferences
-istop: yes
+istop: istop
 series: ICCAD'23
 authors: Chowdhuryy, Md Hafizul Islam and Zhang, Zhenkai and Yao, Fan
 year: 2023

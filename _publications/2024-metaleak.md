@@ -2,7 +2,7 @@
 title: "MetaLeak: Uncovering Side Channels in Secure Processor Architectures Exploiting Metadata"
 collection: publications
 category: conferences
-istop: yes
+istop: istop
 series: ISCA'24
 authors: Chowdhuryy, Md Hafizul Islam and Zheng, Hao and Yao, Fan
 year: 2024

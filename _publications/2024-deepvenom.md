@@ -2,8 +2,8 @@
 title: "DeepVenom: Persistent DNN Backdoors Exploiting Transient Weight Perturbations in Memories"
 collection: publications
 category: conferences
-istop: yes
-series: SP'22
+istop: istop
+series: SP'24
 authors: Cai, Kunbei and Chowdhuryy, Md Hafizul Islam and Zhang, Zhenkai and Yao, Fan
 year: 2024
 permalink: /publication/2/1/2024-deepvenom

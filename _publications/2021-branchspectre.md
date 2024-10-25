@@ -2,8 +2,8 @@
 title: "Leaking Secrets Through Modern Branch Predictors in the Speculative World"
 collection: publications
 category: manuscripts
-istop: yes
-series: TC'22
+istop: istop
+series: TC'21
 authors: Chowdhuryy, Md Hafizul Islam and Yao, Fan
 year: 2022
 permalink: /publication/6/1/2021-branchspectre

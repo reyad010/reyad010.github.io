@@ -2,8 +2,9 @@
 title: "MetaLeak: Uncovering Side Channels in Secure Processor Architectures Exploiting Metadata"
 collection: publications
 category: conferences
+istop: yes
 permalink: /publication/5/1/2024-metaleak
-excerpt: 'Microarchitectural side channels raise severe security concerns. Recent studies indicate that microarchitecture security should be examined holistically (rather than separately) in systems. Although the effects of performance optimizations on side channels are widely studied, the impacts of integrating security mechanisms intended for other threats on microarchitecture security are not well explored. In this paper, we perform the first side channel exploration in secure processor architectures t ...'
+excerpt: 'Microarchitectural side channels raise severe security concerns. Recent studies indicate that microarchitecture security should be examined holistically (rather than separately) in systems. Although the effects of performance optimizations on side channels are widely studied, the impacts of integrating security mechanisms intended for other threats on microarchitecture security are not well explored. In this paper, we perform the first side channel exploration in secure processor architectures ...'
 date: 5/1/2024
 venue: 'IEEE/ACM Annual International Symposium on Computer Architecture (ISCA)'
 slidesurl: '../files/metaleak_slides.pdf'

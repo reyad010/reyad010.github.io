@@ -2,8 +2,9 @@
 title: "BranchSpec: Information Leakage Attacks Exploiting Speculative Branch Instruction Executions"
 collection: publications
 category: conferences
+istop: no
 permalink: /publication/2/1/2020-branchspec
-excerpt: 'Recent studies on attacks exploiting processor hardware vulnerabilities have raised significant concern for information security. Particularly, transient execution attacks such as Spectre augment microarchitectural side channels with speculative executions that lead to exfiltration of secretive data not intended to be accessed. Many prior works have demonstrated the manipulation of branch predictors for triggering speculative executions, and thereafter leaking sensitive information through proce ...'
+excerpt: 'Recent studies on attacks exploiting processor hardware vulnerabilities have raised significant concern for information security. Particularly, transient execution attacks such as Spectre augment microarchitectural side channels with speculative executions that lead to exfiltration of secretive data not intended to be accessed. Many prior works have demonstrated the manipulation of branch predictors for triggering speculative executions, and thereafter leaking sensitive information through ...'
 date: 2/1/2020
 venue: 'IEEE International Conference on Computer Design (ICCD)'
 slidesurl: '../files/branchspec_slides.pdf'

@@ -2,8 +2,9 @@
 title: "D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives"
 collection: publications
 category: conferences
+istop: yes
 permalink: /publication/6/1/2023-d-shield
-excerpt: 'Ensuring the confidentiality and integrity of data stored in storage disks is essential to protect users’ sensitive and private data. Recent developments of hardware-based attacks have motivated the need to secure storage data not only at rest but also in transit. Unfortunately, existing techniques such as software-based disk encryption and hardware-based self-encrypting disks fail to offer such comprehensive protection in today’s adversarial settings. With the advances of NVMe SSDs promising ul ...'
+excerpt: 'Ensuring the confidentiality and integrity of data stored in storage disks is essential to protect users’ sensitive and private data. Recent developments of hardware-based attacks have motivated the need to secure storage data not only at rest but also in transit. Unfortunately, existing techniques such as software-based disk encryption and hardware-based self-encrypting disks fail to offer such comprehensive protection in today’s adversarial settings. With the advances of NVMe SSDs promising ...'
 date: 6/1/2023
 venue: 'IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
 slidesurl: '../files/d-shield_slides.pdf'

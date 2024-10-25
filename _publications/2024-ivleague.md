@@ -2,8 +2,9 @@
 title: "IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees"
 collection: publications
 category: conferences
+istop: yes
 permalink: /publication/11/1/2024-ivleague
-excerpt: 'Modern secure processors rely on hardware-assisted encryption and tree-based integrity verification to protect off-chip data. However, despite extensive research on performance optimization, there is a significant lack of emphasis on side channel vulnerabilities in secure architectures. Given the strong focus on data security, it is critical to ensure that the integration of new design elements into secure architectures does not inadvertently introduce additional vulnerabilities. Existing integr ...'
+excerpt: 'Modern secure processors rely on hardware-assisted encryption and tree-based integrity verification to protect off-chip data. However, despite extensive research on performance optimization, there is a significant lack of emphasis on side channel vulnerabilities in secure architectures. Given the strong focus on data security, it is critical to ensure that the integration of new design elements into secure architectures does not inadvertently introduce additional vulnerabilities. Existing ...'
 date: 11/1/2024
 venue: 'IEEE/ACM International Symposium on Microarchitecture (MICRO)'
 slidesurl: '../files/ivleague_slides.pdf'

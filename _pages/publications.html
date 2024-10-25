@@ -22,7 +22,6 @@ author_profile: true
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
-        <p color="red">[TOP-TIER]</p>
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}

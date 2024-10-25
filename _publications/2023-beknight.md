@@ -1,6 +1,7 @@
 ---
 title: "BeKnight: Guarding Against Information Leakage in Speculatively Updated Branch Predictors"
 collection: publications
+category: conferences
 permalink: /publication/1/1/2023-beknight
 excerpt: 'This paper proposes low-overhead side channel mitigation for speculatively updated branch predictors'
 date: 1/1/2023

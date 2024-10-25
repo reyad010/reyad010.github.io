@@ -34,5 +34,5 @@ Add CSS code to use list__item class to inherit the full width of the parent ele
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% post.title %}
+  {{ post.title }}
 {% endfor %}

@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Engineering, University of Central Florida, 2024
+* M.E. in Electrical and Electronic Engineering, University of Chittagong, 2019
+* B.S. in Electrical and Electronic Engineering, University of Chittagong, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Post-doctoral Researcher
+  * University of Central Florida
+  * Supervisor: Dr. Fan Yao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2019 - Summer 2024: Graduate Research Assistant
+  * University of Central Florida
 
 Publications
 ======
@@ -59,6 +42,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic services
 ======
-* Currently signed in to 43 different slack teams
+* IEEE Transactions on Computers (2022,2023) – Reviewer.
+* IEEE International Conference on Computer Design (2023) – Publicity chair.
+* IEEE Transactions on Dependable and Secure Computing (2022,2023) – Reviewer.
+* Design Automation Conference (2023) – Sub-reviewer.
+* IEEE International Conference on Networking, Architecture, and Storage (2022) – Sub-reviewer.
+* IEEE International Symposium on Secure and Private Execution Environment Design (2022) – Sub-reviewer.
+* IEEE International Symposium on Workload Characterization (2021) – Artifact Evaluation Committee Member.
+* IEEE International Conference on Computer Design (2021,2022) – Sub-reviewer.
+
+Awards
+======
+* UCF Presentation Fellowship (Fall’2023,Spring’2023,Summer’2022).
+* NSF-sponsored student travel grant award (Spring’2023).
+* IEEE S&P Student Travel Grant (2022).
+* Student Government International Students Scholarship (2021).
+* ORCGS Doctoral Fellowship (2019).

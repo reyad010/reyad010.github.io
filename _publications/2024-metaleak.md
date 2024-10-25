@@ -4,6 +4,8 @@ collection: publications
 category: conferences
 istop: yes
 series: ISCA'24
+authors: Chowdhuryy, Md Hafizul Islam and Zheng, Hao and Yao, Fan
+year: 2024
 permalink: /publication/5/1/2024-metaleak
 excerpt: 'Microarchitectural side channels raise severe security concerns. Recent studies indicate that microarchitecture security should be examined holistically (rather than separately) in systems. Although the effects of performance optimizations on side channels are widely studied, the impacts of integrating security mechanisms intended for other threats on microarchitecture security are not well explored. In this paper, we perform the first side channel exploration in secure processor architectures ...'
 date: 5/1/2024

@@ -4,6 +4,8 @@ collection: publications
 category: conferences
 istop: yes
 series: SP'22
+authors: Cai, Kunbei and Chowdhuryy, Md Hafizul Islam and Zhang, Zhenkai and Yao, Fan
+year: 2024
 permalink: /publication/2/1/2024-deepvenom
 excerpt: 'Backdoor attacks have raised significant concerns in machine learning (ML) systems. Mainstream ML backdoor attacks typically involve either poisoning the victim’s training samples or pre-training poisoned models for use by victim users. Meanwhile, recent advances in hardware-based threats reveal that ML model integrity at inference-time can be seriously tampered by inducing transient faults in model weights. However, the adversarial impacts of such hardware fault attacks at training time have ...'
 date: 2/1/2024

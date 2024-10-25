@@ -4,6 +4,8 @@ collection: publications
 category: conferences
 istop: yes
 series: ICCAD'23
+authors: Chowdhuryy, Md Hafizul Islam and Zhang, Zhenkai and Yao, Fan
+year: 2023
 permalink: /publication/2/1/2023-beknight
 excerpt: 'Information leakage through processor microarchi-tectural components exploiting speculative execution is raising significant security concerns. Modern commercial processors incorporate branch predictor designs where internal states of branch predictor structures are speculatively updated. Recent studies have shown that speculatively updated branch predictors allow side channel exploitation in the speculative domain, extending branch predictors to be another source of transmitting medium in ...'
 date: 2/1/2023

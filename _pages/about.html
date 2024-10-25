@@ -33,6 +33,21 @@ Add CSS code to use list__item class to inherit the full width of the parent ele
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {{ post.title }}
-{% endfor %}
+<div style="display: flex; flex-direction: row; gap: 20px; margin-bottom: 20px;">
+  {% for post in site.publications reversed %}
+    {% if post.istop == "yes" %}
+      <!-- First Column (Series in Red) -->
+      <div style="flex: 1; font-weight: bold; color: red;">
+        {{ post.series }}
+      </div>
+      
+      <!-- Second Column (Title, Authors, Venue, Year) -->
+      <div style="flex: 3;">
+        <div style="font-weight: bold;">{{ post.title }}</div>
+        <div>{{ post.authors }}</div>
+        <div><i>{{ post.venue }}</i></div>
+        <div>{{ post.year }}</div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

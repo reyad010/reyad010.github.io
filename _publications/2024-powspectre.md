@@ -4,6 +4,8 @@ collection: publications
 category: conferences
 istop: no
 series: ASIACCS '24
+authors: Chowdhuryy, Md Hafizul Islam and Zhang, Zhenkai and Yao, Fan
+year: 2024
 permalink: /publication/1/1/2024-powspectre
 excerpt: 'Trusted execution environment (TEE) offers data protection against malicious system software. However, the TEE (e.g., Intel SGX) threat model exacerbates information leakage as attackers can enhance and denoise the observations from hardware-based side channels through controlled victim execution (i.e., replay). The replay mechanism is especially critical for side channels from physical traces (e.g., power consumption) that not only vary instantaneously but also necessitate successive ...'
 date: 1/1/2024

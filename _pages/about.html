@@ -7,11 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am post-doctoral researcher in the [Computer Architecture and Systems Research (CASR) Lab](https://casrl.ece.ucf.edu/) at UCF. I have received my Ph.D. degree in Computer Engineering from [University of Central Florida](https://www.ucf.edu/) where I was advised by [Dr. Fan Yao](http://fan-yao.com/).
-
-My research interest is at the area of computer architecture and security, focusing on the development of secure and high-performance microarchitectural systems and emerging memory architectures. My work has led to the identification of new vulnerabilities in modern CPU microarchitecture and secure processors. I have also designed secure and high-performance architecture for memory and storage subsystems. I have published as first author in many prestigious venues, including all three top-tier architecture conferences (ISCA, MICRO, and HPCA) and the Systems Security Conference (S&P).
+I am post-doctoral researcher in the <a href="https://casrl.ece.ucf.edu/" target="_blank">Computer Architecture and Systems Research (CASR) Lab</a> at UCF. I have received my Ph.D. degree in Computer Engineering from <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a> where I was advised by <a href="http://fan-yao.com/" target="_blank">Dr. Fan Yao</a>.
+<br>
+My research interest is at the area of computer architecture and security, focusing on the development of secure and high-performance microarchitectural systems and emerging memory architectures. My work has led to the identification of new vulnerabilities in modern CPU microarchitecture and secure processors. I have also designed secure and high-performance architecture for memory and storage subsystems. I have published as first author in many prestigious venues, including all three top-tier architecture conferences (<strong>ISCA</strong>,  <strong>MICRO</strong>, and <strong>HPCA</strong>) and the Systems Security Conference (<strong>S&P</strong>).
 
 <div style="background-color: lightgrey; padding: 10px; width: inherit;">
   <p style="color: red;">I am currently on the job market for tenure-track fac​ulty positions and research scientist positions in the industry.
 </p>
 </div>
+
+
+<h2>News</h2>
+
+
+<h2>Publications</h2>
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}

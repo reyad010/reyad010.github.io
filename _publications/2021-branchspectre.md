@@ -3,6 +3,7 @@ title: "Leaking Secrets Through Modern Branch Predictors in the Speculative Worl
 collection: publications
 category: manuscripts
 istop: yes
+series: TC'22
 permalink: /publication/6/1/2021-branchspectre
 excerpt: 'Transient execution attacks that exploit speculation have raised significant concerns in computer systems. Typically, branch predictors are leveraged to trigger mis-speculation in transient execution attacks. In this work, we demonstrate a new class of speculation-based attacks that targets the branch prediction unit (BPU). We find that speculative resolution of conditional branches (i.e., in nested speculation) alter the states of pattern history table (PHT) in modern processors, which are not ...'
 date: 6/1/2021

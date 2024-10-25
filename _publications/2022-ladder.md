@@ -3,6 +3,7 @@ title: "LADDER: Architecting Content and Location-aware Writes for Crossbar Resi
 collection: publications
 category: conferences
 istop: yes
+series: MICRO '21
 permalink: /publication/6/1/2022-ladder
 excerpt: 'Resistive memories (ReRAM) organized in the form of crossbars are promising for main memory integration. While offering high cell density, crossbar-based ReRAMs suffer from variable write latency requirement for RESET operations due to the varying impact of IR drop, which jointly depends on the data pattern of the crossbar and the location of target cells being RESET. The exacerbated worst-case RESET latencies can significantly limit system performance. In this paper, we propose LADDER, an ...'
 date: 6/1/2022

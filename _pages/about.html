@@ -73,7 +73,7 @@ Conference (<strong>S&P</strong>).
       {% for author in authors %}
         {% assign names = author | split: ", " %}
         {% if names[0] == "Chowdhuryy" and names[1] == "Md Hafizul Islam" %}
-          <span style="font-weight: bold; text-decoration: underline;">{{ names[1] }} {{ names[0] }}</span>
+          <span style="font-weight: bold; text-decoration: underline;text-underline-position: under;">{{ names[1] }} {{ names[0] }}</span>,
         {% else %}
           {{ names[1] }} {{ names[0] }}{% if forloop.last == false %}, {% endif %}
         {% endif %}

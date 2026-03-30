@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"paperurl\\\\|slidesurl\" /home/reyad/reyad010.github.io/_publications/*.md)",
+      "Bash(grep:*)",
+      "WebFetch(domain:casrl.ece.ucf.edu)",
+      "Bash(curl -sL \"https://casrl.ece.ucf.edu/wp-content/uploads/2023/05/D-Shield-slides.pdf\" -o d-shield_slides.pdf)",
+      "Bash(curl -sL \"https://casrl.ece.ucf.edu/wp-content/uploads/2021/11/deepsteal.pdf\" -o deepsteal_slides.pdf)",
+      "Bash(curl -sL \"https://casrl.ece.ucf.edu/wp-content/uploads/2021/09/2021-micro-ladder-presentation.pdf\" -o ladder_slides.pdf)",
+      "Bash(sudo apt-get:*)",
+      "Bash(gem install:*)",
+      "Bash(~/.local/share/gem/ruby/3.2.0/bin/bundle install:*)",
+      "Bash(GEM_HOME=\"$HOME/.gem\" ~/.local/share/gem/ruby/3.2.0/bin/bundle install)",
+      "Bash(GEM_HOME=\"$HOME/.gem\" ~/.local/share/gem/ruby/3.2.0/bin/bundle install --jobs=1)",
+      "Bash(GEM_PATH=\"$HOME/.gem:$GEM_PATH\" ~/.gem/bin/jekyll build)",
+      "Bash(docker --version)"
+    ]
+  }
+}

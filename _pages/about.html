@@ -81,6 +81,10 @@ Conference (<strong>S&P</strong>).
     </div>
 
     <div><i>{{ post.venue }}, {{ post.year }}</i></div>
+    <div style="margin-top: 4px;">
+      {% if post.paperurl %}<a href="{{ post.paperurl }}" style="margin-right: 10px;">[Paper]</a>{% endif %}
+      {% if post.slidesurl %}<a href="{{ post.slidesurl }}">[Slides]</a>{% endif %}
+    </div>
   </div>
 </div>
 {% endfor %}

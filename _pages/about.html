@@ -28,8 +28,8 @@ Conference (<strong>S&P</strong>).
 
 <div style="background-color: #f5f7fa; width: inherit; font-style: italic;">
   <p style="color: red; padding: 10px; margin: 0;margin-top:10px;">
-    I am currently on the job market for tenure-track faculty positions and
-    research scientist positions in the industry.
+    I will be joining the ECE department at UNC Charlotte (UNCC) as a
+    tenure-track Assistant Professor starting Fall 2026.
   </p>
 </div>
 
@@ -37,11 +37,7 @@ Conference (<strong>S&P</strong>).
 
 <ul>
   {% for news in site.data.news %}
-    <li>
-      <a href="{{ news.link }}" style="font-weight: bold;">{{ news.title }}</a>
-      <span style="color: gray;">({{ news.date }})</span>
-      <p>{{ news.description }}</p>
-    </li>
+    <li><strong>{{ news.title }}</strong> <span style="color: gray;">({{ news.date }})</span></li>
   {% endfor %}
 </ul>
 
